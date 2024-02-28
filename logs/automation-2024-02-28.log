@@ -1,0 +1,50 @@
+06:24:46.060 [main] INFO  testBase.BaseClass - ********Starting TC_01_DoctorTest********
+06:24:52.826 [main] INFO  testBase.BaseClass - ********Location has been selected********
+06:24:58.787 [main] INFO  testBase.BaseClass - ********Hospitals has been selected********
+06:24:59.407 [main] INFO  testBase.BaseClass - ********Navigated to Doctor page********
+06:25:02.866 [main] INFO  testBase.BaseClass - ********Patient Filter has been selected********
+06:25:08.947 [main] INFO  testBase.BaseClass - ********Experience Filter has been selected********
+06:25:13.033 [main] INFO  testBase.BaseClass - ********All Filters has been selected********
+06:25:15.512 [main] INFO  testBase.BaseClass - ********Select Fees Filter under All Filters has been selected********
+06:25:21.844 [main] INFO  testBase.BaseClass - ********Sort Filter has been selected********
+06:25:24.476 [main] INFO  testBase.BaseClass - ********All Filters has been selected********
+06:25:24.478 [main] INFO  testBase.BaseClass - ********All Filters has been selected********
+06:25:26.719 [main] INFO  testBase.BaseClass - ********Availability Filter under All Filters has been selected********
+06:25:32.632 [main] INFO  testBase.BaseClass - ********First Five Doctors Information has been captured********
+06:25:32.633 [main] INFO  testBase.BaseClass - ********Ending TC_01_DoctorTest********
+06:25:32.992 [main] INFO  testBase.BaseClass - ********Starting TC_02_SurgeryTest********
+06:25:37.604 [main] INFO  testBase.BaseClass - ********Surgeries under nav header is clicked********
+06:25:37.604 [main] INFO  testBase.BaseClass - ********Navigated to Surgeries page********
+06:25:37.856 [main] INFO  testBase.BaseClass - ********Popular surgeries in surgeries page has been scrolled********
+06:26:02.716 [main] INFO  testBase.BaseClass - ********All the popular surgeries has been listed********
+06:26:03.704 [main] INFO  testBase.BaseClass - ********Starting TC_03_HealthTest********
+06:26:10.682 [main] INFO  testBase.BaseClass - ********Health & Wellness under FOR CORPORATES header has been clicked********
+06:26:10.682 [main] INFO  testBase.BaseClass - ********Navigated to Health and Wellness Plan page********
+06:26:11.904 [main] INFO  testBase.BaseClass - ********Negative testing by providing invalid email has been started********
+06:26:18.733 [main] INFO  testBase.BaseClass - ********Negative testing has been done********
+06:26:23.067 [main] INFO  testBase.BaseClass - ********Health page has been refreshed to refresh the form********
+06:26:23.068 [main] INFO  testBase.BaseClass - ********Positive testing by providing valid email has been started********
+06:26:41.576 [main] INFO  testBase.BaseClass - ********Positive testing has been done********
+06:26:43.833 [main] INFO  testBase.BaseClass - ********Message After successful form submission has been captured********
+07:10:34.752 [main] INFO  testBase.BaseClass - ********Starting doctorStep********
+07:10:41.044 [main] INFO  testBase.BaseClass - ********Location has been selected********
+07:10:46.382 [main] INFO  testBase.BaseClass - ********Hospitals has been selected********
+07:10:46.917 [main] INFO  testBase.BaseClass - ********Navigated to Doctor page********
+07:10:50.291 [main] INFO  testBase.BaseClass - ********Patient Filter has been selected********
+07:10:54.546 [main] INFO  testBase.BaseClass - ********Experience Filter has been selected********
+07:10:57.025 [main] INFO  testBase.BaseClass - ********All Filters has been selected********
+07:11:01.012 [main] INFO  testBase.BaseClass - ********Select Fees Filter under All Filters has been selected********
+07:11:07.815 [main] INFO  testBase.BaseClass - ********Sort Filter has been selected********
+07:11:10.195 [main] INFO  testBase.BaseClass - ********All Filters has been selected********
+07:11:12.317 [main] INFO  testBase.BaseClass - ********Availability Filter under All Filters has been selected********
+07:11:19.809 [main] INFO  testBase.BaseClass - ********First Five Doctors Information has been captured********
+07:11:19.810 [main] INFO  testBase.BaseClass - ********Ending doctorStep********
+07:11:37.511 [main] INFO  testBase.BaseClass - ********Starting SurgeryStep********
+07:11:42.769 [main] INFO  testBase.BaseClass - ********Surgeries under nav header is clicked********
+07:11:42.772 [main] INFO  testBase.BaseClass - ********Navigated to Surgeries page********
+07:11:42.866 [main] INFO  testBase.BaseClass - ********Popular surgeries in surgeries page has been scrolled********
+07:11:57.520 [main] INFO  testBase.BaseClass - ********All the popular surgeries has been listed********
+07:11:57.523 [main] INFO  testBase.BaseClass - ********Ending surgeryStep********
+07:12:17.054 [main] INFO  testBase.BaseClass - ********Starting healthStep********
+07:12:23.119 [main] INFO  testBase.BaseClass - ********Health & Wellness under FOR CORPORATES header has been clicked********
+07:12:23.120 [main] INFO  testBase.BaseClass - ********Navigated to Health and Wellness Plan page********
